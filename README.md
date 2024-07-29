@@ -1,4 +1,4 @@
-Probably nothing to do on my page. Continue scrolling. 
+Probably nothing to see on my page. Keep scrolling.
 
 <!---
 vadimmath/vadimmath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
